@@ -1,0 +1,18 @@
+@import 'variables';
+
+.card-course-item {
+    margin-bottom: 16px;
+}
+
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    margin-right: 4px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.checkbox-select-all-options {
+    width: 180px;
+    margin: 0 16px;
+}
